@@ -3,7 +3,6 @@ import random
 from random import shuffle
 from random import shuffle as random_shuffle
 
-
 fruits = ['apples', 'oranges', 'bananas']
 print(fruits)
 
