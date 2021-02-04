@@ -1,0 +1,5 @@
+while not win_condition
+    get user move
+    validate
+    apply user move
+    check win_condition
